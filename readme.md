@@ -1,4 +1,4 @@
-# Outil de Nettoyage de Données pour les Projets QGIS Zone NORD (Inwi)
+# Outil de Nettoyage de Données pour les Projets QGIS Zone SUD (Inwi)
 
 Cet outil vous aide à traiter et valider les fichiers CSV contenant des chemins de liens des photos de livrables QGIS. 
 
